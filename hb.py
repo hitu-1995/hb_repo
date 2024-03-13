@@ -4,3 +4,8 @@ print("We provide Self Drive Car Service")
 
 class Vehicle:
     pass
+
+
+x=10
+y=29
+print(x+y)
